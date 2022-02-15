@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a6c152f7-284b-2e66-4f68-ecbd851a6bc6
 ---
@@ -70,28 +72,6 @@ Curriculum Information
 ### Offered
 
 *   Offered each IAP ![](/images/educator/icon-question-iap.png) since 2009
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Picture of classroom with 16 tablet-style desks and and sliding chalkboards.]({{< resource_file 120d56c2-ca42-4cf5-716f-ad487eead4e7 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The classroom for 5.301 features sliding chalkboards and seats for 16 students with tablet-style desks.
-    
-*   ![A photograph showing two work benches in an open room adjacent to a long corridor. An eye-wash station is next to the work bench on the left.]({{< resource_file 972fa45c-2760-39a6-ab0c-b82a5beec06c >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab
-    
-    Students in 5.301 conduct experiments in an undergraduate chemistry lab. The lab features work benches, advanced instruments, hoods and other safety equipment. (Photo courtesy of George Zaidan.)
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Purification by Flash Column Chromatography
 uid: c6f62d9c-9821-b626-fa9e-e0c89539617a
@@ -51,7 +55,7 @@ uid: c6f62d9c-9821-b626-fa9e-e0c89539617a
 
 *   You will be given 2 mL of an ether/pentane solution containing 1.00 g of benzylacetone contaminated with a small amount of guaiazulene.
 *   Analyze this mixture by TLC—_see TLC Guide_, using 10% ethyl acetate/hexanes as the solvent system.
-*   Record the Rf values.
+*   Record the R{{< sub "f" >}} values.
 *   Prepare the column in the hood, using 10% ether/pentane and 50 g (about 5'') of of silica gel—_see Flash Column Chromatography Guide_.
 *   Elute the column with 10mL of pentane—Apply your sample to the column, being careful not to disturb the top layer of sand. Rinse the sample flask three times with 1 mL pentane each, and use the rinses to wash the sides of the column.
 *   Run the column, monitoring the fractions by TLC—_See Flash Chromatography Guide and TLC Guide_.

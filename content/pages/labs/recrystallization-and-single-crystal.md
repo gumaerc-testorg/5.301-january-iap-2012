@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Purification of Solids by Recrystallization
 uid: 58b2c136-ec0b-4a6d-48f1-dd5ebd62cc8e
@@ -40,7 +44,7 @@ uid: 58b2c136-ec0b-4a6d-48f1-dd5ebd62cc8e
 
 ### Goal
 
-You will be given 2.00 g of impure naphthalene (mothballs!); your job is to purify the naphthalene by recrystallization without losing a significant amount of your sample!1
+You will be given 2.00 g of impure naphthalene (mothballs!); your job is to purify the naphthalene by recrystallization without losing a significant amount of your sample!{{< sup "1" >}}
 
 Experiment Outline
 ------------------
@@ -101,7 +105,7 @@ X-Ray diffraction is an important and powerful tool for determining the solid st
 
 ### Goal
 
-Synthesize Cr(acac)3,2 then perform several slow recrystallizations to obtain a single crystal of satisfactory quality.
+Synthesize Cr(acac){{< sub "3" >}},{{< sup "2" >}} then perform several slow recrystallizations to obtain a single crystal of satisfactory quality.
 
 ### Experiment Outline
 
@@ -139,7 +143,7 @@ EQUIV
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-CrCl3·6H2O
+CrCl{{< sub "3" >}}·6H{{< sub "2" >}}O
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -211,7 +215,7 @@ Urea
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cr(acac)3
+Cr(acac){{< sub "3" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Product
@@ -240,7 +244,7 @@ Product
 
 ### Experimental
 
-*   Dissolve CrCl3·6H2O in 2 mL of distilled water in a 50-mL round-bottomed flask, equipped with a stir bar.
+*   Dissolve CrCl{{< sub "3" >}}·6H{{< sub "2" >}}O in 2 mL of distilled water in a 50-mL round-bottomed flask, equipped with a stir bar.
 *   Add the urea in one portion to the flask, and stir until completely dissolved.
 *   Add the 2,4-pentanedione dropwise via syringe.
 *   Attach the condenser to the flask, and heat the mixture to vigorous reflux (_this is important!_), with stirring, for about 1 hour.
@@ -250,7 +254,7 @@ Product
 
 ### Note
 
-*   Urea slowly hydrolyzes in the acidic solution used for this reaction, liberating ammonia (NH3), which controls the pH of the reaction. As more NH3 is generated, the solution becomes more basic, making it easier to remove the proton from the acac (acetylacetonate, also known as 2,4-pentanedione); it is the acac anion which then coordinates to the metal to form the desired Cr(acac)3 complex. What is the limiting reagent? Calculate your percent yield.
+*   Urea slowly hydrolyzes in the acidic solution used for this reaction, liberating ammonia (NH{{< sub "3" >}}), which controls the pH of the reaction. As more NH{{< sub "3" >}} is generated, the solution becomes more basic, making it easier to remove the proton from the acac (acetylacetonate, also known as 2,4-pentanedione); it is the acac anion which then coordinates to the metal to form the desired Cr(acac){{< sub "3" >}} complex. What is the limiting reagent? Calculate your percent yield.
 
 ![image6.jpg]({{< resource_file 2de547c2-0c2d-10e9-aef8-32aa07fc395b >}})
 
@@ -260,7 +264,7 @@ When using a saturated solution to grow crystals, filter the solution through a 
 
 ### Results
 
-*   To obtain your "EE Rating," you must obtain ≥ 45% yield of Cr(acac)3 and you must produce at least one single crystal that is suitable for X-ray analysis.
-1Adapted from Fieser, L. F., and K. L. Williamson. _Organic Experiments_. 7th ed. D. C. Heath and Company, 1992, p. 40.
+*   To obtain your "EE Rating," you must obtain ≥ 45% yield of Cr(acac){{< sub "3" >}} and you must produce at least one single crystal that is suitable for X-ray analysis.
+{{< sup "1" >}}Adapted from Fieser, L. F., and K. L. Williamson. _Organic Experiments_. 7th ed. D. C. Heath and Company, 1992, p. 40.
 
-2Adapted from Szafran, Z., R. M. Pike, and M. M. Sing. "Synthesis of Metal Acetylacetonates." In _Microscale Inorganic Chemistry: A Comprehensive Laboratory Experience_. Wiley, 1991, pp. 224–9.
+{{< sup "2" >}}Adapted from Szafran, Z., R. M. Pike, and M. M. Sing. "Synthesis of Metal Acetylacetonates." In _Microscale Inorganic Chemistry: A Comprehensive Laboratory Experience_. Wiley, 1991, pp. 224–9.

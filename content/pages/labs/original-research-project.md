@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Introduction to Original Research
 uid: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
@@ -27,4 +31,4 @@ In this research project you will each synthesize a penicillin derivative throug
 A wide selection of acyl chlorides will be made available to choose from. Progress of the reaction will be followed using TLC plates with additional characterization by NMR and MASS SPECTROSCOPY. The penicillin derivatives once synthesized will be purified by column chromatography and tested in a bioassay to determine and quantify their ability to kill bacteria. A broth dilution method will be developed to determine the concentration of penicillin that inhibits the growth of 50% of bacteria in vitro. Each of the penicillins will be tested using broth diluted with E. coli, a Gram (-) bacteria. After incubation of the diluted samples, optical density (OD) measurements will be made measuring their absorption at 600 nm on a Perkin-Elmer UV-VIS spectrometer. The results of the entire class will be made available to all participants so that the students in their final reports can develop structural and functional relationships among the various penicillin derivatives and discuss trends used in ranking the various derivatives based on their effectiveness at inhibiting bacterial growth. We will be synthesizing penicillins that may not yet be commercially available. The goal is to create and identify new antibiotics to stave off biological resistance by the bacteria.
 
 What is unique about our project is the type of bacteria that we will be using. We have worked out the method and adapted it to ([BL1](http://en.wikipedia.org/wiki/Biosafety_level_1#Biosafety_level_1)) E. coli Gram (-) bacteria (Strain ATCC 10798). Since penicillin antibiotics are most effective against Gram (+) bacteria, we wanted to look carefully at the potential of their action against a Gram (-) strain. Our thinking here was that this is a less virulent strain to work with in terms of student safety (BL1) and secondly, if the results are promising for the Gram (-) strain we potentially could apply our most effective synthetic derivatives against the more dangerous Gram (+) bacteria in a ([BL2](http://en.wikipedia.org/wiki/Biosafety_level_2#Biosafety_level_2)) rated lab. See the MIT Undergraduate Lab safety considerations ([PDF]({{< baseurl >}}/resources/mit5_301iap12_udrgra_lbbl1)) for more information on our BL1 rated lab.
-1 Adapted from: Whitaker, D. R., M. L. Truhlar, et al. _Journal of Chemical Education_ 87 (2010): 634–6.
+{{< sup "1" >}} Adapted from: Whitaker, D. R., M. L. Truhlar, et al. _Journal of Chemical Education_ 87 (2010): 634–6.

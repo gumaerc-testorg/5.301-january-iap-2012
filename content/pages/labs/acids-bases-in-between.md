@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Transfer and Extraction Techniques
 uid: 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb
@@ -13,7 +17,7 @@ uid: 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb
 
 ### Techniques Checklist
 
-*   Separation of multi-component mixture using _pKa_
+*   Separation of multi-component mixture using _pK{{< sub "a" >}}_
 *   Planning an extraction and washing sequence
 *   Careful transfer of solutions without loss of material
 *   Solvent drying and concentration
@@ -49,7 +53,7 @@ To separate a three-component mixture using differences in _pKa_, with minimal l
 
 ### Experiment Outline
 
-You will receive a vial containing 100 mg each of benzoic acid, 4-nitroaniline, and naphthalene. Using the _pKa_, values of these molecules, carefully devise an extraction and washing sequence that will selectively separate the three components.1
+You will receive a vial containing 100 mg each of benzoic acid, 4-nitroaniline, and naphthalene. Using the _pKa_, values of these molecules, carefully devise an extraction and washing sequence that will selectively separate the three components.{{< sup "1" >}}
 
 ![image2.jpg]({{< resource_file 17e4ad24-b8c7-c0b3-b1ad-94a647ff4f24 >}})
 
@@ -67,4 +71,4 @@ You will receive a vial containing 100 mg each of benzoic acid, 4-nitroaniline, 
 ### Results
 
 To obtain your "EE Rating" in Transfer and Extraction Techniques, you must isolate at least 90 mg of two of the three compounds. In addition, the isolated compounds should melt over no more than three degrees, with the range beginning no lower than two degrees below the melting point values given above.
-1Adapted from Gilbert, J. C., and S. F. Martin. _Experimental Organic Chemistry: A Miniscale & Macroscale Approach_. 3rd ed. Pacific Grove, p. 141.
+{{< sup "1" >}}Adapted from Gilbert, J. C., and S. F. Martin. _Experimental Organic Chemistry: A Miniscale & Macroscale Approach_. 3rd ed. Pacific Grove, p. 141.
