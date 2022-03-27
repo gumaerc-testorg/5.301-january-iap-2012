@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Introduction to Original Research
 parent_type: CourseSection
+parent_uid: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
 resourcetype: Image
 title: penicillin.jpg
 uid: bd7c0db6-eef4-c786-825d-4d5c2faf94c1

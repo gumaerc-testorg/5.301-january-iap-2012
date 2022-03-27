@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 resourcetype: Document
 title: MIT5_301IAP12_Dist_Handout.pdf
 uid: 623aab30-1107-6b0f-06d6-87b73bf6446c

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 40c09e61-eca8-89ea-dbda-8548c8281d7c
 resourcetype: Document
 title: MIT5_301IAP12_Application.pdf
 uid: ec75634f-5e81-7985-69b7-8156ba5dc714

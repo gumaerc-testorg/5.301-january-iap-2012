@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Transfer and Extraction Techniques
 parent_type: CourseSection
+parent_uid: 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb
 resourcetype: Image
 title: image2.jpg
 uid: 17e4ad24-b8c7-c0b3-b1ad-94a647ff4f24

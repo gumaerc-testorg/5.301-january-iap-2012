@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to Original Research
 parent_type: CourseSection
+parent_uid: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
 resourcetype: Document
 title: Scheme 1, Penicillin
 uid: 986b88f4-11f4-697d-a0cd-03f233fce151

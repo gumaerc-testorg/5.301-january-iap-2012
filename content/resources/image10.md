@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Purification by Flash Column Chromatography
 parent_type: CourseSection
+parent_uid: c6f62d9c-9821-b626-fa9e-e0c89539617a
 resourcetype: Image
 title: image10.jpg
 uid: 0c08b23d-ef25-77d2-ac0a-4cd3e4ad518b

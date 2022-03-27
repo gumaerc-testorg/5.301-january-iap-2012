@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 resourcetype: Document
 title: MIT5_301IAP12_NMR_Handout.pdf
 uid: a8f4bca2-4bce-0baa-4734-0a020cc26967

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 resourcetype: Document
 title: Laboratory Manual 5.301 Chemistry Laboratory Techniques
 uid: 05480a0e-e36a-74e8-9542-e5dd7a521c2d

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Purification of Liquids by Distillation
 parent_type: CourseSection
+parent_uid: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
 resourcetype: Image
 title: image9.jpg
 uid: 34ba7981-d954-9656-8860-1fa7e5e4b71a

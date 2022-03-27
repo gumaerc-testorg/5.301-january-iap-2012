@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to Original Research
 parent_type: CourseSection
+parent_uid: 522c2d2c-6509-eaa8-e39a-b9a4c599c18b
 resourcetype: Document
 title: MIT5_301IAP12_Udrgra_LbBL1.pdf
 uid: f6602096-7d5c-d447-a3b7-3ac0691897a4
