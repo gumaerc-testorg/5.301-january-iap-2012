@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Transfer and Extraction Techniques
 uid: 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 2.2 - Expert Experimentalist Rating
@@ -55,7 +60,7 @@ To separate a three-component mixture using differences in _pKa_, with minimal l
 
 You will receive a vial containing 100 mg each of benzoic acid, 4-nitroaniline, and naphthalene. Using the _pKa_, values of these molecules, carefully devise an extraction and washing sequence that will selectively separate the three components.{{< sup "1" >}}
 
-![image2.jpg]({{< resource_file 17e4ad24-b8c7-c0b3-b1ad-94a647ff4f24 >}})
+{{< resource 17e4ad24-b8c7-c0b3-b1ad-94a647ff4f24 >}}
 
 *   Before beginning your extraction sequence, check with your TA or professor to make sure that it will work. You are free to use any or all of the following solvents:
     *   Diethyl Ether

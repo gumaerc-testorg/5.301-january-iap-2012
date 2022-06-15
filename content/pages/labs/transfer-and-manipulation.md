@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -8,6 +9,10 @@ parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Transfer and Extraction Techniques
 uid: c59302c1-e1f3-95fb-d6d8-3dea9eff1473
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 2.1 - Competent Chemist Rating
@@ -60,7 +65,7 @@ To manipulate and purify a known amount of a contaminated sample and to record i
 
 *   You will receive a vial containing 100 mg of ethyl 3-hydroxybenzoate (mp 72–74 °C) contaminated with triethylamine. You will also receive four different {{< sup "1" >}}H NMR spectra of: the mixture in your vial, pure ethyl 3-hydroxybenzoate, pure triethylamine, and diethyl ether.  
       
-    ![image1.jpg]({{< resource_file 5576c89a-d275-f6de-9f7b-47a6cde388c3 >}})
+    {{< resource 5576c89a-d275-f6de-9f7b-47a6cde388c3 >}}
 *   Dissolve the sample in 50–75 mL of ether in a separatory funnel.
 *   Remove the amine by extraction with a 10% HCl solution.
 *   Continue with the "standard aqueous work-up" (including an ether back extraction)—_see Extraction and Washing Guide_.

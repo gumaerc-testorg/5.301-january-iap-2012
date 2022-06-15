@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section contains instructions for the lab experiments in the course,
+  as well as technique guides, instrument operation instructions, and readings.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
 title: Labs
 uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 **WARNING NOTICE**
@@ -13,9 +19,9 @@ The experiments described in these materials are potentially hazardous and requi
   
 [Legal Notice](/terms/)
 
-This section includes course modules for mastering a series of chemistry laboratory techniques. Information on the original research project assignment and a listing of techniques guides are also provided. All materials may be found in the complete laboratory manual. ([PDF - 2.4MB]({{< baseurl >}}/resources/mit5_301iap12_comp_manual)) (\*Please note: for users on Mac machines experiencing problems viewing the images, downloading and saving the document should resolve this issue.) 
+This section includes course modules for mastering a series of chemistry laboratory techniques. Information on the original research project assignment and a listing of techniques guides are also provided. All materials may be found in the complete laboratory manual. ({{% resource_link 05480a0e-e36a-74e8-9542-e5dd7a521c2d "PDF - 2.4MB" %}}) (\*Please note: for users on Mac machines experiencing problems viewing the images, downloading and saving the document should resolve this issue.) 
 
-Video instruction tutorials from the Digital Lab Techniques Manual ([DLTM]({{< baseurl >}}/pages/study-materials)) are recommended for some of the modules and are noted below.
+Video instruction tutorials from the Digital Lab Techniques Manual ({{% resource_link 2b2835f7-837d-4adf-3472-70c8e945778c "DLTM" %}}) are recommended for some of the modules and are noted below.
 
 [Introductory Reading Assignment](#Introductory_Reading_Assignment)  
 [Technique Modules](#Technique_Modules)  
@@ -55,19 +61,19 @@ Note:
 "CC" refers to the "Competent Chemist" modules.  
 "EE" refers to the "Expert Experimentalist" modules.
 
-[Transfer and Manipulation (CC)]({{< baseurl >}}/pages/labs/transfer-and-manipulation)
+{{% resource_link c59302c1-e1f3-95fb-d6d8-3dea9eff1473 "Transfer and Manipulation (CC)" %}}
 
-[Acids, Bases & In Between (EE)]({{< baseurl >}}/pages/labs/acids-bases-in-between)
+{{% resource_link 8ddf76b7-df22-5ab5-9416-ef7e01ee46cb "Acids, Bases & In Between (EE)" %}}
 
-[Recrystallization—Mothball (CC), and Single Crystal (EE)]({{< baseurl >}}/pages/labs/recrystallization-and-single-crystal)
+{{% resource_link 58b2c136-ec0b-4a6d-48f1-dd5ebd62cc8e "Recrystallization—Mothball (CC), and Single Crystal (EE)" %}}
 
-[Distillation (CC, EE)]({{< baseurl >}}/pages/labs/distillation)
+{{% resource_link 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4 "Distillation (CC, EE)" %}}
 
-[Column Chromatography (CC, EE)]({{< baseurl >}}/pages/labs/column-chromatography)
+{{% resource_link c6f62d9c-9821-b626-fa9e-e0c89539617a "Column Chromatography (CC, EE)" %}}
 
-[Biochemistry (CC, EE)]({{< baseurl >}}/pages/labs/biochemistry)
+{{% resource_link f188885a-5b59-0b88-0391-28a6b6495dee "Biochemistry (CC, EE)" %}}
 
-[Original Research Project]({{< baseurl >}}/pages/labs/original-research-project)
+{{% resource_link 522c2d2c-6509-eaa8-e39a-b9a4c599c18b "Original Research Project" %}}
 
 {{< anchor "Technique_Guides" >}}{{< /anchor >}}Technique Guides
 ----------------------------------------------------------------
@@ -92,7 +98,7 @@ FILES
 NMR Sample Preparation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_nmr_handout))
+({{% resource_link a8f4bca2-4bce-0baa-4734-0a020cc26967 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +107,7 @@ NMR Sample Preparation
 GC Sample Preparation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_sample))
+({{% resource_link 55faa724-0955-ef7f-9ba0-0c9ddc369ba2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +116,7 @@ GC Sample Preparation
 Thin Layer Chromatography Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_tlc_handout))
+({{% resource_link a24e004f-cf54-30a1-6b2a-7eb36ac4df40 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +125,7 @@ Thin Layer Chromatography Guide
 Extraction and Washing Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_work_handout))
+({{% resource_link a0317f96-9aa1-7d5e-b5aa-9064d9c08df8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +134,7 @@ Extraction and Washing Guide
 No Air Technique Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_air_handout))
+({{% resource_link eb30f7ac-00d3-00e8-a78c-3078c93f77ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +143,7 @@ No Air Technique Guide
 Two-Solvent Recrystallization Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_two_solvent))
+({{% resource_link 6942bb24-26ca-88f7-f8f0-6bf405d497bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,7 +152,7 @@ Two-Solvent Recrystallization Guide
 Guide to Growing a Single Crystal
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_single_cryst))
+({{% resource_link 86f26594-e08a-7cc4-261e-36d78aa9b9eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +161,7 @@ Guide to Growing a Single Crystal
 Distillation Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_dist_handout))
+({{% resource_link 623aab30-1107-6b0f-06d6-87b73bf6446c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +170,7 @@ Distillation Guide
 Flash Column Chromatography
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_flashhandout))
+({{% resource_link 84c56cb3-e6c6-8ca0-f9b1-102414861258 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -194,7 +200,7 @@ FILES
 NMR
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.3MB]({{< baseurl >}}/resources/mit5_301iap12_nmr_op_guide))
+({{% resource_link ae344c9f-d473-63ab-7617-4b790375bde8 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +209,7 @@ NMR
 IR Guide
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_perkin_elmer))
+({{% resource_link 13b0b942-e91f-306b-8f66-a0c5951d600f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +218,7 @@ IR Guide
 Refractometer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_oper_refract))
+({{% resource_link 4260391a-94c7-bf43-58d6-6de888431927 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +227,7 @@ Refractometer
 UV
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_uv_op_guide))
+({{% resource_link 841ed8cb-6805-7686-399c-d400d0664695 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +236,7 @@ UV
 Mass Spectrometer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_ms_op_guide))
+({{% resource_link cfa8f5bf-697c-cb94-4c94-4ef20a90e155 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -239,7 +245,7 @@ Mass Spectrometer
 GC
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit5_301iap12_gc_handout))
+({{% resource_link 1d503dbf-1858-9465-43d0-7fb72de08371 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
