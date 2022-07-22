@@ -1,19 +1,25 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: a6c152f7-284b-2e66-4f68-ecbd851a6bc6
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+## Course Overview
 
-Course Overview
----------------
+This page focuses on the course _5.301 Chemistry Laboratory Techniques_ as it was taught by Dr. John Dolhun in January 2012.
 
-This page focuses on the course 5.301 _Chemistry Laboratory Techniques_ as it was taught by Dr. John Dolhun in January 2012.
+_Chemistry_ _Laboratory_ _Techniques_ is a "boot camp" course offering motivated first year MIT students intensive practical training in fundamental chemistry lab techniques within a condensed intra-semester session. It is intended to equip students who pass this rigorous course with the skills necessary to undertake original research projects in Chemistry. The class has limited enrollment and is only open to first year students. It prepares students for UROP ![](/images/educator/icon-question-urop.png) positions by providing them with state of the art lab experiences and the opportunity to master essential techniques and skills.
 
-_Chemistry_ _Laboratory_ _Techniques_ is a "boot camp" course offering motivated first year MIT students intensive practical training in fundamental chemistry lab techniques within a condensed intra-semester session. It is intended to equip students who pass this rigorous course with the skills necessary to undertake original research projects in Chemistry. The class has limited enrollment and is only open to first year students. It prepares students for UROP ![](/images/educator/icon-question-urop.png) positions by providing them with state of the art lab experiences and the opportunity to master essential techniques and skills.
-
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -31,74 +37,51 @@ Students pursue UROPs in the Chemistry Department and in other departments.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "I teach the course in a way that shows students I am excited about what I am teaching. The students need to be constantly engaged." "—John Dolhun" >}}
 
-Below, Dr. John Dolhun describes various aspects of teaching 5.301 _Chemistry Laboratory Techniques_.
+_Below, Dr. John Dolhun describes various aspects of teaching_ 5.301 Chemistry Laboratory Techniques.
 
 ### Preparing for the Course
 
-*   Instructors begin preparing for this rigorous and condensed course six weeks before students enter the lab. During this preparation period, teaching assistants engage in their own boot camp, completing all of the experiments students will complete--but in half the time. 
-*   Safety is a key component of any lab-based course. We bring in two safety officers from the MIT Environment Health & Safety Office to address students on the first day of class before they ever step foot in the lab. One officer covers basic laboratory safety and the other discusses biological lab safety protocols. 
+- Instructors begin preparing for this rigorous and condensed course six weeks before students enter the lab. During this preparation period, teaching assistants engage in their own boot camp, completing all of the experiments students will complete--but in half the time. 
+- Safety is a key component of any lab-based course. We bring in two safety officers from the MIT Environment Health & Safety Office to address students on the first day of class before they ever step foot in the lab. One officer covers basic laboratory safety and the other discusses biological lab safety protocols. 
 
 ### Teaching Beginner Chemists
 
-*   One of the challenges I face in teaching this course is the fact that most of the students have had little to no Organic Chemistry before enrolling in the class. Initially, I need to fully draw out structures, while gradually teaching the students about bonding and nomenclature. By the end of the course I am able to use the most condensed structures. I also integrate a number of live chemical demonstrations into my lectures, which illustrate key concepts and keep students interested during the lectures. I teach the course in a way that shows students I am excited about what I am teaching. The students need to be constantly engaged. 
+- One of the challenges I face in teaching this course is the fact that most of the students have had little to no Organic Chemistry before enrolling in the class. Initially, I need to fully draw out structures, while gradually teaching the students about bonding and nomenclature. By the end of the course I am able to use the most condensed structures. I also integrate a number of live chemical demonstrations into my lectures, which illustrate key concepts and keep students interested during the lectures. I teach the course in a way that shows students I am excited about what I am teaching. The students need to be constantly engaged. 
 
 ### Reinforcing Course Concepts Inside and Outside the Lab
 
-*   A key feature of this course is that is provides students with an opportunity to immediately implement in the lab what they learn in the lecture. Students routinely practice course disciplines after basic instruction, linking theory and practice. 
-*   We ask students to visualize their experiments prior to coming to the lab. They write pre-lab notes in a laboratory notebook. The notes must be detailed enough so that another researcher could carry out the experiment using their notes. During the actual experiment students carry their notebooks, using them to record all of their observations and calculations as post-lab notes. All of the pages in students' notebooks are checked and initialed by the teaching assistants at both the start and end of the lab experiment. Students submit the signed pages to the teaching assistants at the close of lab daily. Students learn early on how important a research quality lab notebook is.
-*   Oral reports are another important element of _Chemistry_ _Laboratory_ _Techniques_. Each student presents a 10 minute oral report on an assigned topic related to their results from one of the experiments in the course. Many freshmen have never given an oral presentation before. The procedure builds their confidence. At the end of the report, they are questioned by other students, the teaching assistants, and the instructor. This aspect of the course is designed to prepare students who take on UROPs to participate productively in research group meetings.
-*   Every student must submit a final formal lab report on the experimental results from his or her original research. The written formal lab report must include all of the traditional components that one finds in a research quality paper. Learning how to write a formal lab report is important and helps students who go on to publish UROP research.
-*   Learing how to maintain a research laboratory notebook, how to deliver an oral report, and how to write a formal laboratory report are important skills that students maintain when they leave the course irrespective of what field of study they decide to enter.
+- A key feature of this course is that is provides students with an opportunity to immediately implement in the lab what they learn in the lecture. Students routinely practice course disciplines after basic instruction, linking theory and practice. 
+- We ask students to visualize their experiments prior to coming to the lab. They write pre-lab notes in a laboratory notebook. The notes must be detailed enough so that another researcher could carry out the experiment using their notes. During the actual experiment students carry their notebooks, using them to record all of their observations and calculations as post-lab notes. All of the pages in students' notebooks are checked and initialed by the teaching assistants at both the start and end of the lab experiment. Students submit the signed pages to the teaching assistants at the close of lab daily. Students learn early on how important a research quality lab notebook is.
+- Oral reports are another important element of _Chemistry_ _Laboratory_ _Techniques_. Each student presents a 10 minute oral report on an assigned topic related to their results from one of the experiments in the course. Many freshmen have never given an oral presentation before. The procedure builds their confidence. At the end of the report, they are questioned by other students, the teaching assistants, and the instructor. This aspect of the course is designed to prepare students who take on UROPs to participate productively in research group meetings.
+- Every student must submit a final formal lab report on the experimental results from his or her original research. The written formal lab report must include all of the traditional components that one finds in a research quality paper. Learning how to write a formal lab report is important and helps students who go on to publish UROP research.
+- Learing how to maintain a research laboratory notebook, how to deliver an oral report, and how to write a formal laboratory report are important skills that students maintain when they leave the course irrespective of what field of study they decide to enter.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   [Chemistry GIR](http://chemistry.mit.edu/freshmen-pre-freshmen/chemistry-general-institute-requirements) ![](/images/educator/icon-question-gir.png)
-*   [Permission of instructor via application process](https://chemistry.mit.edu/academic-programs/undergraduate-programs/first-year-students/5-301/)
+- [Chemistry GIR](http://chemistry.mit.edu/freshmen-pre-freshmen/chemistry-general-institute-requirements) ![](/images/educator/icon-question-gir.png)
+- [Permission of instructor via application process](https://chemistry.mit.edu/academic-programs/undergraduate-programs/first-year-students/5-301/)
 
 ### Requirements Satisfied
 
-*   UROP qualification for freshmen
+- UROP qualification for freshmen
 
 ### Offered
 
-*   Offered each IAP ![](/images/educator/icon-question-iap.png) since 2009
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Picture of classroom with 16 tablet-style desks and and sliding chalkboards.]({{< resource_file 120d56c2-ca42-4cf5-716f-ad487eead4e7 >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    The classroom for 5.301 features sliding chalkboards and seats for 16 students with tablet-style desks.
-    
-*   ![A photograph showing two work benches in an open room adjacent to a long corridor. An eye-wash station is next to the work bench on the left.]({{< resource_file 972fa45c-2760-39a6-ab0c-b82a5beec06c >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab
-    
-    Students in 5.301 conduct experiments in an undergraduate chemistry lab. The lab features work benches, advanced instruments, hoods and other safety equipment. (Photo courtesy of George Zaidan.)
-    
+- Offered each IAP ![](/images/educator/icon-question-iap.png) since 2009
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![5-301_stat-students.png]({{< resource_file d78b0dd5-84eb-0ae6-3dc0-319a31d72bf2 >}})
+### Enrollment
+
+14 students
 
 ### Breakdown by Year
 
@@ -124,23 +107,20 @@ The ideal class size is 12-14 students. This number of students allows instructo
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 35 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Mandatory morning lecture and group discussion
-*   13 lecture sessions total
-*   One hour of the lecture session is spent covering the principle behind that day’s lab work, demonstrating the equipment and techniques, and answering questions
-*   Formal lecture time is followed by a one-hour break during which students work in groups to discuss potential issues related to the day's experiment
+- Mandatory morning lecture and group discussion
+- 13 lecture sessions total
+- One hour of the lecture session is spent covering the principle behind that day’s lab work, demonstrating the equipment and techniques, and answering questions
+- Formal lecture time is followed by a one-hour break during which students work in groups to discuss potential issues related to the day's experiment
 
-Laboratory
-----------
+### Laboratory
 
-*   Mandatory afternoon lab work
-*   13 sessions and one full day session of original research
-*   TAs give a 30-minute pre-lab lecture reviewing safety protocols and some techniques
-*   Students perform daily experimental work for 4-5 hours per session, during which they master essential chemistry techniques and complete original research
+- Mandatory afternoon lab work
+- 13 sessions and one full day session of original research
+- TAs give a 30-minute pre-lab lecture reviewing safety protocols and some techniques
+- Students perform daily experimental work for 4-5 hours per session, during which they master essential chemistry techniques and complete original research

@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Transfer and Extraction Techniques
 uid: c59302c1-e1f3-95fb-d6d8-3dea9eff1473
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 2.1 - Competent Chemist Rating
@@ -50,13 +59,13 @@ uid: c59302c1-e1f3-95fb-d6d8-3dea9eff1473
 
 ### Goal
 
-To manipulate and purify a known amount of a contaminated sample and to record its 1H NMR and IR spectra, all with minimal loss of material.
+To manipulate and purify a known amount of a contaminated sample and to record its {{< sup "1" >}}H NMR and IR spectra, all with minimal loss of material.
 
 ### Experiment Outline
 
-*   You will receive a vial containing 100 mg of ethyl 3-hydroxybenzoate (mp 72–74 °C) contaminated with triethylamine. You will also receive four different 1H NMR spectra of: the mixture in your vial, pure ethyl 3-hydroxybenzoate, pure triethylamine, and diethyl ether.  
+*   You will receive a vial containing 100 mg of ethyl 3-hydroxybenzoate (mp 72–74 °C) contaminated with triethylamine. You will also receive four different {{< sup "1" >}}H NMR spectra of: the mixture in your vial, pure ethyl 3-hydroxybenzoate, pure triethylamine, and diethyl ether.  
       
-    ![image1.jpg]({{< resource_file 5576c89a-d275-f6de-9f7b-47a6cde388c3 >}})
+    {{< resource 5576c89a-d275-f6de-9f7b-47a6cde388c3 >}}
 *   Dissolve the sample in 50–75 mL of ether in a separatory funnel.
 *   Remove the amine by extraction with a 10% HCl solution.
 *   Continue with the "standard aqueous work-up" (including an ether back extraction)—_see Extraction and Washing Guide_.
@@ -74,4 +83,4 @@ To manipulate and purify a known amount of a contaminated sample and to record i
 
 ### Results
 
-*   To obtain your "CC Rating" in Transfer and Extraction Techniques, you must end with at least 90 mg of ethyl 3-hydroxybenzoate. Additionally, this material must be of adequate purity as determined by IR and 1H NMR analysis (spectra should show only negligible amounts of impurities in the judgment of the professor and TA) and by melting point measurement (should melt over no more than three degrees with the lower range beginning no lower than 69 °C and the upper range ending no higher than 73 °C). This material must also be submitted to the TA for possible weight and melting point confirmation measurements.
+*   To obtain your "CC Rating" in Transfer and Extraction Techniques, you must end with at least 90 mg of ethyl 3-hydroxybenzoate. Additionally, this material must be of adequate purity as determined by IR and {{< sup "1" >}}H NMR analysis (spectra should show only negligible amounts of impurities in the judgment of the professor and TA) and by melting point measurement (should melt over no more than three degrees with the lower range beginning no lower than 69 °C and the upper range ending no higher than 73 °C). This material must also be submitted to the TA for possible weight and melting point confirmation measurements.

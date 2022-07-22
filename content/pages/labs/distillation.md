@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Purification of Liquids by Distillation
 uid: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 4.1 - Competent Chemist Rating
@@ -51,7 +60,7 @@ uid: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
 *   Prepare a GC sample of your purified, low-boiling fraction.
 *   Obtain a mass spectrum and a gas chromatogram of your purified low-boiling compound.
 
-![image7.jpg]({{< resource_file f974ee49-6cfd-1cb9-3b99-0a027932db56 >}})
+{{< resource f974ee49-6cfd-1cb9-3b99-0a027932db56 >}}
 
 ### Helpful Hints
 
@@ -101,7 +110,7 @@ uid: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
 
 *   You will receive a vial containing 7.50g of a mixture of alpha-ionone and octadecane. Repeat procedure for CC level distillation but using a Vigreux column and the vacuum line—_see Distillation Guide_.
 
-![image8.jpg]({{< resource_file fd703583-9db3-826c-c59d-4e6f2d749510 >}})
+{{< resource fd703583-9db3-826c-c59d-4e6f2d749510 >}}
 
 ### Results
 
@@ -109,4 +118,4 @@ uid: 0c7c8722-9ff3-1fc3-5a0c-3cf42fb54cc4
 
 The picture below is a **nomograph**. using it and a ruler, you can determine at what temperature a liquid will boil under vacuum.
 
-![image9.jpg]({{< resource_file 34ba7981-d954-9656-8860-1fa7e5e4b71a >}})
+{{< resource 34ba7981-d954-9656-8860-1fa7e5e4b71a >}}

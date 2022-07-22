@@ -1,9 +1,18 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055
 title: Purification by Flash Column Chromatography
 uid: c6f62d9c-9821-b626-fa9e-e0c89539617a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 5.1 - Competent Chemist Rating
@@ -45,13 +54,13 @@ uid: c6f62d9c-9821-b626-fa9e-e0c89539617a
 
 *   Purify a contaminated compound using silica gel flash column chromatography.
 
-![image10.jpg]({{< resource_file 0c08b23d-ef25-77d2-ac0a-4cd3e4ad518b >}})
+{{< resource 0c08b23d-ef25-77d2-ac0a-4cd3e4ad518b >}}
 
 ### Experiment Outline
 
 *   You will be given 2 mL of an ether/pentane solution containing 1.00 g of benzylacetone contaminated with a small amount of guaiazulene.
 *   Analyze this mixture by TLC—_see TLC Guide_, using 10% ethyl acetate/hexanes as the solvent system.
-*   Record the Rf values.
+*   Record the R{{< sub "f" >}} values.
 *   Prepare the column in the hood, using 10% ether/pentane and 50 g (about 5'') of of silica gel—_see Flash Column Chromatography Guide_.
 *   Elute the column with 10mL of pentane—Apply your sample to the column, being careful not to disturb the top layer of sand. Rinse the sample flask three times with 1 mL pentane each, and use the rinses to wash the sides of the column.
 *   Run the column, monitoring the fractions by TLC—_See Flash Chromatography Guide and TLC Guide_.
@@ -90,7 +99,7 @@ Separate mixture of three compounds using gradient elution flash column chromato
 *   Benzylideneacetone—FW 146.19, mp 39–41 °C
 *   3-Methylanisole—FW 122.17, bp 175–176 °C, d 0.969
 
-![image11.jpg]({{< resource_file b30ed09f-f1b6-dcda-701f-247cd838cfd9 >}})
+{{< resource b30ed09f-f1b6-dcda-701f-247cd838cfd9 >}}
 
 ### Experiment Outline
 
