@@ -5,6 +5,7 @@ description: This resource contains information regarding the process of synthes
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/986b88f411f4697da0cd03f233fce151_MIT5_301IAP12_penicillin.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction to Original Research
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information regarding the process of synthesis of a penicillin derivative through acylation of 6-aminopenicillanic acid.
-
