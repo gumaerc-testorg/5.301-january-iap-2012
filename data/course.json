@@ -33,8 +33,10 @@
     "website": "5-301-chemistry-laboratory-techniques-january-iap-2012"
   },
   "learning_resource_types": [
-    "Demonstration Videos"
+    "Demonstration Videos",
+    "Instructor Insights"
   ],
-  "site_uid": "906c32ec-9878-4d79-991f-b76556856e45",
+  "site_uid": "73e5fbad-05b8-440e-bdb1-aff05f02c73a",
+  "site_short_id": "5.301-january-iap-2012",
   "title": "Course Metadata"
 }
