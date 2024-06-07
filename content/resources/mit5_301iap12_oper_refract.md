@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regrading operation of refractometer
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/4260391a94c7bf4358d66de888431927_MIT5_301IAP12_Oper_Refract.pdf
+file_size: 565001
 file_type: application/pdf
 learning_resource_types:
 - Labs
