@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to flash column handout.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/84c56cb3e6c68ca0f9b1102414861258_MIT5_301IAP12_FlashHandout.pdf
+file_size: 125160
 file_type: application/pdf
 learning_resource_types:
 - Labs

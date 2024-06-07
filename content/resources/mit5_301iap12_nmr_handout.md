@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to NMR sample prep handout.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/a8f4bca24bce0baa47340a020cc26967_MIT5_301IAP12_NMR_Handout.pdf
+file_size: 100535
 file_type: application/pdf
 learning_resource_types:
 - Labs
