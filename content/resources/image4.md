@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/aef63fa944e15f98b92515abcceed573_image4.jpg
+file_size: 9259
 file_type: image/jpeg
 image_metadata:
   caption: ''

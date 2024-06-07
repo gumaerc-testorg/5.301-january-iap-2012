@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to lab introduction.
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/20fc0d8b6a98a6c3c1c8675fb6e705f6_MIT5_301IAP12_07_lab_intro.pdf
+file_size: 106196
 file_type: application/pdf
 learning_resource_types:
 - Labs

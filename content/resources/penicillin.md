@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/bd7c0db6eef4c786825d4d5c2faf94c1_penicillin.jpg
+file_size: 7105
 file_type: image/jpeg
 image_metadata:
   caption: By changing the R group, we will synthesize a new penicillin derivative
