@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to single crystal handout.
-file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/86f26594e08a7cc4261e36d78aa9b9eb_MIT5_301IAP12_single_cryst.pdf
+file: /ol-ocw-studio-app/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/86f26594e08a7cc4261e36d78aa9b9eb_MIT5_301IAP12_single_cryst.pdf
 file_size: 100689
 file_type: application/pdf
 learning_resource_types:

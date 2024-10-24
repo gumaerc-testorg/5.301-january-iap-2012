@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is regarding complete laboratory manual.
-file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/05480a0ee36a74e89542e5dd7a521c2d_MIT5_301IAP12_comp_manual.pdf
+file: /ol-ocw-studio-app/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/05480a0ee36a74e89542e5dd7a521c2d_MIT5_301IAP12_comp_manual.pdf
 file_size: 2560543
 file_type: application/pdf
 learning_resource_types:
