@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/17e4ad24b8c7c0b3b1ad94a647ff4f24_image2.jpg
+file: /ol-ocw-studio-app/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/17e4ad24b8c7c0b3b1ad94a647ff4f24_image2.jpg
 file_size: 35975
 file_type: image/jpeg
 image_metadata:
