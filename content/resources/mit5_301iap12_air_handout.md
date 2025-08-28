@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information related to air sens handout.
-file: /courses/5-301-chemistry-laboratory-techniques-january-iap-2012/eb30f7ac00d300e8a78c3078c93f77ab_MIT5_301IAP12_air_handout.pdf
+file: /ol-ocw-studio-app/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/eb30f7ac00d300e8a78c3078c93f77ab_MIT5_301IAP12_air_handout.pdf
 file_size: 106620
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
