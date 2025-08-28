@@ -3,7 +3,7 @@ content_type: page
 description: This section contains instructions for the lab experiments in the course,
   as well as technique guides, instrument operation instructions, and readings.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 53ce5b9c-9cb1-08bf-b3c9-831b5de2d055

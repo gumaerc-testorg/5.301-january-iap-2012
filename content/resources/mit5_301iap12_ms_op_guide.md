@@ -5,7 +5,7 @@ file: /ol-ocw-studio-app/courses/5-301-chemistry-laboratory-techniques-january-i
 file_size: 633411
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
